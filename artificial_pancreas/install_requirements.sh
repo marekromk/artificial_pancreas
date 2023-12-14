@@ -1,0 +1,1 @@
+pip3 install easyocr==1.7.1 && pip3 uninstall -y opencv-python-headless && pip3 install opencv-python==4.8.1.78 torch==2.0.1 torchvision==0.15.2 buildhat==0.6.0

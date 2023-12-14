@@ -1,0 +1,15 @@
+12/12/2023 22:20:56 WARNING: Using CPU. Note: This module is much faster with a GPU.
+12/12/2023 22:22:01 DEBUG: The OCR returned: [([[188, 168], [318, 168], [318, 242], [188, 242]], '15,0', 0.9634612722951056)]
+12/12/2023 22:22:01 DEBUG: The OCR's highest returned confidence level is: 0.9634612722951056
+12/12/2023 22:22:01 DEBUG: The OCR read the number: 15.0
+12/12/2023 22:22:01 DEBUG: The position of the motor in degrees before turning is: -178
+12/12/2023 22:22:06 DEBUG: The position of the motor in degrees after turning is: 170
+12/12/2023 22:22:06 DEBUG: After having pumped 3 units, there are about 552 units left in the reservoir
+12/12/2023 22:22:06 INFO: The pump has pumped 2.7 mL of insulin solution into the blood, which means the blood glucose level will change to 7.5 mmol/L
+12/12/2023 22:22:57 WARNING: KeyboardInterrupt has been handled
+12/12/2023 22:33:03 WARNING: Using CPU. Note: This module is much faster with a GPU.
+12/12/2023 22:34:26 INFO: The pump has pumped 2.7 mL of insulin solution into the blood, which means the blood glucose level will change from 15.0 mmol/L to 7.5 mmol/L
+12/12/2023 22:35:46 WARNING: KeyboardInterrupt has been handled
+12/12/2023 22:40:30 WARNING: Using CPU. Note: This module is much faster with a GPU.
+12/12/2023 22:41:17 INFO: The pump has pumped 2.7 mL of insulin solution into the blood, which means the blood glucose level will change from 15.0 mmol/L to 7.5 mmol/L
+12/12/2023 22:42:55 WARNING: KeyboardInterrupt has been handled
